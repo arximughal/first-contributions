@@ -5,3 +5,4 @@ Below is a guide on how to take benifit from the awesome Git integration in one 
 This guide will cover the following corners of the Git integration in [WebStorm](https://www.jetbrains.com/webstorm/):
 * How to clone a Git respository and start a new project in WebStorm
 * How to clone a repository from your [Github](https://github.com) account and start a project in WebStorm
+* How to use version control for your existing project in WebStorm
